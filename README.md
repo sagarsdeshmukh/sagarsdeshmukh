@@ -55,10 +55,6 @@ I'm proud to contribute to the open-source community through:
 - **Greenpeace** - Supporting environmental initiatives through technology
 - Arctic Code Vault Contributor
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsdeshmukh&layout=compact&theme=default)
-
 ## 🌱 Currently Exploring
 
 - Advanced Laravel features (Livewire, Octane, Horizon)
