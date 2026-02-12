@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Sagar, a Full-Stack Developer with 14+ years of experience building web applications.
+I’m Sagar, a Full-Stack Developer focused on building modern, efficient web applications.
 
 ## What I work with
 
